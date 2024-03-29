@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "img": "../../public/images/book1.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"Let's Talk Money"
+    },
+    {
+      "img": "../../public/images/book2.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"Metaphysical Anatomy"
+    },
+    {
+      "img": "../../public/images/book3.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"7 Habits of Effective People"
+    },
+    {
+      "img": "../../public/images/book4.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"Anthony Robbins"
+    },
+    {
+      "img": "../../public/images/book1.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"Let's Talk Money"
+    },
+    {
+      "img": "../../public/images/book2.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"Metaphysical Anatomy"
+    },
+    {
+      "img": "../../public/images/book3.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"7 Habits of Effective People"
+    },
+    {
+      "img": "../../public/images/book4.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"Anthony Robbins"
+    },
+    {
+      "img": "../../public/images/book1.svg",
+      "rating":"../../public/images/stars.svg",
+      "name":"Let's Talk Money"
+    }    
+  ]
+}
