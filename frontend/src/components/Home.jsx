@@ -17,8 +17,8 @@ const Home = () => {
             Browse the collection of our best top interesting Books. you will
             definitely find what you are looking for.
           </p>
-          <button className="border-2 p-2 flex justify-center items-center mx-auto my-4 bg-purple-950 text-white hover:bg-purple-800 transition-all rounded-md">
-            <Link to="/books">Read Books</Link>
+          <button className="border-2 py-2 px-5 uppercase flex justify-center items-center mx-auto my-4 bg-purple-950 text-white hover:bg-purple-800 transition-all rounded-md">
+            <Link to="/books">Read Now</Link>
           </button>
         </div>
         <div className="md:p-16 lg:w-1/2">
