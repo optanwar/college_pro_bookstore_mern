@@ -72,7 +72,7 @@ const AddStudent = () => {
               type="text"
               id="grade"
               name="grade"
-              placeholder="Enter Student Grade"
+              placeholder="Student Grade"
               onChange={(e) => setGrade(e.target.value)}
               className="py-1 px-2 rounded-sm"
             />
